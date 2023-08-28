@@ -1,5 +1,3 @@
-![image](https://github.com/mdrrifat/Penetration-Testing-Checklist/assets/90470184/c8e29ea5-0aa4-4f71-831b-5305348331bd)
-
 # Penetration Testing Checklist
 
 **Prepared by: Md Rifat (D4RKR@1)**
