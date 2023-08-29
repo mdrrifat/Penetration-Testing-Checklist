@@ -211,7 +211,7 @@
         - [ ]  Try XSS using QuickXSS tool by theinfosecguy
         - [ ]  ctrl+u= view-source: link
         - [ ]  Upload file using '"><img src=x onerror=alert(document.domain)>.txt
-        - [ ]  If script tags are banned, use <h1> and other HTML tags
+        - [ ]  If script tags are banned, use "<h1>" and other HTML tags
         - [ ]  If output is reflected back inside the JavaScript as a value of any variable just use alert(1)
         - [ ]  if " are filtered then use this payload /><img src=d onerror=confirm(/tushar/);>
         - [ ]  Upload a JavaScript using Image file
